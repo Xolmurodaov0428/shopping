@@ -38,7 +38,7 @@ class _LoginPageState extends State<LoginPage> {
     }
   }
 
-  final _login = "admin";
+  final _login = "admin1";
 
   final _parol = "1234";
 
